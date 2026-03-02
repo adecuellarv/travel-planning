@@ -32,7 +32,7 @@ const APRIL_END = new Date(2026, 3, 30);
 function clampToApril(d: Date) {
   if (d < APRIL_START) return APRIL_START;
   if (d > APRIL_END) return APRIL_END;
-  return d;
+  return d; 
 }
 
 function toDateStr(d: Date) {
