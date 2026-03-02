@@ -26,7 +26,7 @@ export function SidebarNav({ activeTab, onTabChange }: SidebarNavProps) {
           <Plane className="w-5 h-5 text-primary-foreground" />
         </div>
         <h1 className="text-lg font-semibold text-sidebar-foreground tracking-tight">
-          Travel Planner
+          Travel Juuls & Ade
         </h1>
       </div>
       <nav className="flex flex-col gap-1 px-3 flex-1">

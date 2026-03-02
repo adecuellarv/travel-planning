@@ -13,7 +13,7 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  title: 'Travel Planner',
+  title: 'Travel Juuls & Ade',
   description: 'Tu dashboard personal para planificar viajes',
   icons: {
     icon: [
